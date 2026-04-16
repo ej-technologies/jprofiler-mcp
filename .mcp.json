@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "jprofiler": {
+      "command": "npx",
+      "args": ["-y", "@ej-technologies/jprofiler-mcp"]
+    }
+  }
+}

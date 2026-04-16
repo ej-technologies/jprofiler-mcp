@@ -1,0 +1,13 @@
+{
+  "name": "jprofiler",
+  "version": "16.1.6",
+  "description": "Java profiling with AI agent integration. Profile CPU, memory, JDBC, HTTP and more.",
+  "author": {
+    "name": "ej-technologies",
+    "url": "https://www.ej-technologies.com"
+  },
+  "homepage": "https://www.ej-technologies.com/jprofiler",
+  "repository": "https://github.com/ej-technologies/jprofiler-mcp",
+  "license": "SEE LICENSE IN https://www.ej-technologies.com/jprofiler/license",
+  "keywords": ["java", "profiling", "performance", "jdbc", "cpu"]
+}

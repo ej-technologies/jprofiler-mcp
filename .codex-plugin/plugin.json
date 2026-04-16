@@ -1,0 +1,28 @@
+{
+  "name": "jprofiler",
+  "version": "16.1.6",
+  "description": "Java profiling with AI agent integration. Profile CPU, memory, JDBC, HTTP and more.",
+  "author": {
+    "name": "ej-technologies",
+    "url": "https://www.ej-technologies.com"
+  },
+  "homepage": "https://www.ej-technologies.com/jprofiler",
+  "repository": "https://github.com/ej-technologies/jprofiler-mcp",
+  "license": "SEE LICENSE IN https://www.ej-technologies.com/jprofiler/license",
+  "keywords": ["java", "profiling", "performance", "jdbc", "cpu"],
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "JProfiler",
+    "shortDescription": "Java performance profiling",
+    "longDescription": "Profile CPU hotspots, memory allocations, JDBC queries, HTTP calls and more directly from Codex.",
+    "developerName": "ej-technologies",
+    "websiteURL": "https://www.ej-technologies.com/jprofiler",
+    "defaultPrompt": [
+      "Use JProfiler to analyze CPU hotspots in this application.",
+      "Use JProfiler to investigate memory allocations and heap usage.",
+      "Use JProfiler to analyze a JFR recording.",
+      "Use JProfiler to analyze an HPROF heap dump.",
+      "Use JProfiler to analyze a JProfiler snapshot."
+    ]
+  }
+}
