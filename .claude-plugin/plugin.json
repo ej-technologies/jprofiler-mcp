@@ -9,5 +9,5 @@
   "homepage": "https://www.ej-technologies.com/jprofiler",
   "repository": "https://github.com/ej-technologies/jprofiler-mcp",
   "license": "SEE LICENSE IN https://www.ej-technologies.com/jprofiler/license",
-  "keywords": ["java", "profiling", "performance", "jdbc", "cpu"]
+  "keywords": ["java", "profiler", "profiling", "profile", "performance", "jdbc", "cpu", "http", "memory"]
 }

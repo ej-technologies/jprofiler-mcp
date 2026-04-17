@@ -7,8 +7,6 @@ integration via the [Model Context Protocol](https://modelcontextprotocol.io).
 Profile CPU hotspots, memory allocations, JDBC queries, HTTP calls and more
 directly from your AI coding assistant.
 
-Listed on [Glama](https://glama.ai/mcp/servers/ej-technologies/jprofiler-mcp).
-
 ## Installation
 
 ### Claude Code
