@@ -1,9 +1,13 @@
 # JProfiler MCP Server
 
+[![ej-technologies/jprofiler-mcp MCP server](https://glama.ai/mcp/servers/ej-technologies/jprofiler-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ej-technologies/jprofiler-mcp)
+
 [JProfiler](https://www.ej-technologies.com/jprofiler) is a Java profiler with AI agent
 integration via the [Model Context Protocol](https://modelcontextprotocol.io).
 Profile CPU hotspots, memory allocations, JDBC queries, HTTP calls and more
 directly from your AI coding assistant.
+
+Listed on [Glama](https://glama.ai/mcp/servers/ej-technologies/jprofiler-mcp).
 
 ## Installation
 
