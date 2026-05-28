@@ -1,6 +1,6 @@
 {
   "name": "jprofiler",
-  "version": "16.1.6",
+  "version": "16.1.8",
   "description": "Java profiling with AI agent integration. Profile CPU, memory, JDBC, HTTP and more.",
   "author": {
     "name": "ej-technologies",
