@@ -15,23 +15,17 @@ directly from your AI coding assistant.
 claude mcp add jprofiler -- npx -y @ej-technologies/jprofiler-mcp
 ```
 
-### Cursor
-
-Listed on [cursor.directory](https://cursor.directory/plugins/jprofiler).
-
-[![Install MCP Server](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.directory/plugins/jprofiler)
-
 ### Codex
 
 ```
 codex mcp add jprofiler -- npx -y @ej-technologies/jprofiler-mcp
 ```
 
-### Gemini CLI
+### Cursor
 
-```
-gemini mcp add jprofiler npx -y @ej-technologies/jprofiler-mcp@latest
-```
+Listed on [cursor.directory](https://cursor.directory/plugins/jprofiler).
+
+[![Install MCP Server](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.directory/plugins/jprofiler)
 
 ### Other MCP clients
 
@@ -41,7 +35,7 @@ Use the following npx invocation as the MCP server command in your client's conf
 npx -y @ej-technologies/jprofiler-mcp@latest
 ```
 
-For clients that use a JSON configuration file (Claude Desktop, Windsurf, VS Code, etc.):
+For clients that use a JSON configuration file (Claude Desktop, Antigravity, Windsurf, VS Code, etc.):
 
 ```json
 {
