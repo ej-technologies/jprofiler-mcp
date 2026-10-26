@@ -48,12 +48,6 @@ For clients that use a JSON configuration file (Claude Desktop, Antigravity, Win
 }
 ```
 
-### Optional arguments
-
-- `--filter <patterns>` — Comma-separated list of tool name patterns to include
-- `--subsystems <list>` — Comma-separated list of subsystems to enable
-- `--max-depth <n>` — Maximum call tree expansion depth
-
 ## License
 
 JProfiler requires a license. On first use, you can start a free 10-day evaluation
